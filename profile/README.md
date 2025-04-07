@@ -1,5 +1,5 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/University-Student-Resources/.github/master/img/banner.png)
+![Banner](../img/banner.png)
 
 </div>
